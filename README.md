@@ -39,5 +39,5 @@ Based on various meteorological surveys and people's styles, the service provide
 - statsmodels 0.12.2
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@saumyapriyam] - feel free to contact me!
 
